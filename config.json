@@ -1,11 +1,20 @@
 {
   "login.lnmiit.ac.in": {
     "email": "23ucs518@lnmiit.ac.in",
-    "password": "LNMIITian",
+    "password": "YOUR_PASSWORD_HERE",
     "selectors": {
       "email": "input[type='email']",
       "password": "input[type='password']",
       "button": "button[type='submit']"
+    }
+  },
+  "moodle.lnmiit.ac.in": {
+    "email": "23ucs518",
+    "password": "YOUR_PASSWORD_HERE",
+    "selectors": {
+      "email": "input[name='username']",
+      "password": "input[name='password']",
+      "button": "#loginbtn"
     }
   }
 }
