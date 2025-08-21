@@ -1,0 +1,11 @@
+{
+  "login.lnmiit.ac.in": {
+    "email": "23ucs518@lnmiit.ac.in",
+    "password": "LNMIITian",
+    "selectors": {
+      "email": "input[type='email']",
+      "password": "input[type='password']",
+      "button": "button[type='submit']"
+    }
+  }
+}
